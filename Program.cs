@@ -18,7 +18,7 @@ namespace Technical_3A
         {   //Asking users' name
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello " + name + "!");
+            Console.WriteLine("Hello " + name + "-"+ "Go Bus!" );
             {
                 Console.WriteLine(" The program enter your name.");
                 Console.WriteLine("Press any keys to exit the program and try again...");
